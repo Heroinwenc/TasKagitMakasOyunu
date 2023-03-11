@@ -1,0 +1,10 @@
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\bin\Debug\TasKagitMakasOyunu.exe.config
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.csprojResolveAssemblyReference.cache
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.Form1.resources
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.Properties.Resources.resources
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.csproj.GenerateResource.Cache
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\bin\Debug\TasKagitMakasOyunu.exe
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\bin\Debug\TasKagitMakasOyunu.pdb
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\bin\Debug\Guna.UI.dll
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.exe
+D:\Users\Ömer\Desktop\Özel Projeler\TasKagitMakasOyunu\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.pdb
